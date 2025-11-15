@@ -50,6 +50,7 @@ I have identified four lists that are missing and plan on adding those in the ne
 - [Curve Fitting Software](https://github.com/mooerslab/curve-fitting-software)
 
 ## Image Generation
+- [Awesome Diffusion](https://zeqiang-lai.github.io/Awesome-Diffusion-Models/graph_molecular_and_material_generation.html)
 - [Easy Gnuplot](https://github.com/JunyeolYu/easy_gnuplot)
 - [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp)
 - [Awesome Graphviz](https://github.com/dbt4u/awesome-graphviz)
@@ -68,8 +69,9 @@ I have identified four lists that are missing and plan on adding those in the ne
 - [Awesome Agents](https://github.com/vince-lam/awesome-agents)
 - [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
 - [List of Open Quantum Software](https://qosf.org/project_list/)
-- [Awesome quantum machine learning](https://krishnakumarsekar.github.io/awesome-quantum-machine-learning/)
+- [Awesome Quantum Machine Learning](https://krishnakumarsekar.github.io/awesome-quantum-machine-learning/)
 - [Awesome GitHub](https://github.com/Kikobeats/awesome-github)
+- [Awesome Category Theory](https://github.com/madnight/awesome-category-theory)
 
 ## Programming Languages
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
@@ -88,6 +90,10 @@ I have identified four lists that are missing and plan on adding those in the ne
 ## Personal Knowledge Management
 - [Awesome PKM](https://github.com/doanhthong/awesome-pkm)
 - [Awesome Zettelkasten](https://github.com/fhoehl/awesome-zettelkasten)
+
+## Voice Computing
+- [Awesome Speech to Text Tools](https://github.com/danielrosehill/Awesome-STT-Tools)
+- [Awesome Speech Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement)
 
 ## Typesetting
 - [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)

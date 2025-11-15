@@ -7,6 +7,13 @@
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome.md](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
+## Structural Biology
+- [Awesome RNA 3D-tools][https://github.com/mmagnus/awesome-rna-3D-tools]
+- [Awesome Chemistry Datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets)
+- [Awesome Cryo-EM](https://github.com/kuixu/awesome-cryoem)
+- [Awesome Protein-Ligand Interactions](https://github.com/YuzheWangPKU/awesome-protein-ligand-interactions)
+- [Awesome Protein Design Software](https://github.com/pansapiens/awesome-protein-design-software)
+
 ## Design of Experiments
 - [Awesome Math](https://githublists.com/lists/rossant/awesome-math)
 - [Awesome LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math)

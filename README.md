@@ -1,0 +1,82 @@
+# Awesome Lists of Interest [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+## Background information about awesome litst
+- [Leonardo Montini's GitHub Awesome Lists](https://leonardomontini.dev/github-awesome-lists/)
+- [Awesome Awesome](https://github.com/emijrp/awesome-awesome)
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome.md](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
+
+## Design of Experiments
+- [Awesome Math](https://githublists.com/lists/rossant/awesome-math)
+- [Awesome LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math)
+- [Awesome Design of Experiments](https://github.com/danieleongari/awesome-design-of-experiments)
+- [Awesome Bayesian Optimization (Materials Data Facility)](https://github.com/materials-data-facility/awesome-bayesian-optimization)
+- [Awesome Bayesian Optimization (yiminzme)](https://github.com/yiminzme/awesome-bayesian-optimization)
+
+## Data Science
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
+- [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience)
+- [Awesome Analytics](https://github.com/oxnr/awesome-analytics)
+
+## Data Analysis
+- [Awesome Bayes](https://github.com/dimenwarper/awesome-bayes)
+- [Awesome Causal Inference](https://github.com/matthewvowels1/Awesome-Causal-Inference)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [HSF Analysis Essentials](https://hsf-training.github.io/analysis-essentials/index.html)
+- [Adaptive Curve Fitting](https://github.com/longavailable/adaptive-curvefitting)
+- [Curve Fitting Software](https://github.com/mooerslab/curve-fitting-software)
+
+## Image Generation
+- [Easy Gnuplot](https://github.com/JunyeolYu/easy_gnuplot)
+- [Awesome GIMP](https://github.com/marekpistorius/awesome-gimp)
+- [Awesome Graphviz](https://github.com/dbt4u/awesome-graphviz)
+- [Awesome Inkscape](https://github.com/mipmip/awesome-inkscape)
+- [Sciplot](https://github.com/sciplot/sciplot)
+- [Awesome Matplotlib](https://github.com/interactivetech/awesome-matplotlib)
+- [Awesome TikZ](https://github.com/xiaohanyu/awesome-tikz)
+
+## Software Engineering
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Awesome Refactoring](https://github.com/faradaj/awesome-refactoring)
+- [Awesome Testing](https://github.com/awesomelistsio/awesome-testing)
+- [Awesome GPU](https://github.com/Jokeren/Awesome-GPU)
+- [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding)
+- [Awesome Agents](https://github.com/vince-lam/awesome-agents)
+
+## Programming Languages
+- [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+- [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
+- [Awesome C](https://github.com/oz123/awesome-c)
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+- [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
+- [Awesome Emacs Lisp](https://github.com/emacs-tw/awesome-elisp)
+- [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran)
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- [Awesome R](https://github.com/qinwf/awesome-R)
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+- [Awesome Wolfram Language](https://github.com/cabralski/awesome-wolfram-language)
+
+## Personal Knowledge Management
+- [Awesome PKM](https://github.com/doanhthong/awesome-pkm)
+- [Awesome Zettelkasten](https://github.com/fhoehl/awesome-zettelkasten)
+
+## Typesetting
+- [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+- [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
+- [Awesome Typst](https://github.com/qjcg/awesome-typst)
+
+## Writing Guidance
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)
+
+## Editors and Notebooks
+- [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
+
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.

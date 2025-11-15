@@ -96,6 +96,7 @@ I have identified four lists that are missing and plan on adding those in the ne
 
 ## Personal Knowledge Management
 - [Awesome PKM](https://github.com/doanhthong/awesome-pkm)
+- [Awesome Logseq](https://github.com/logseq/awesome-logseq)
 - [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
 - [Awesome Org-roam](https://github.com/kot-behemoth/awesome-org-roam)
 - [Awesome Zettelkasten](https://github.com/fhoehl/awesome-zettelkasten)

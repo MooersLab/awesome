@@ -1,5 +1,9 @@
 # Awesome Lists of Interest [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+This is a curated list of links to awesome list that other people have put together about topics of interest to me.
+They're over 6000 such awesome list on GitHub.
+I have identified four lists that are missing and plan on adding those in the near future as separate repositories.
+
 
 ## Background information about awesome lists on GitHub
 - [Leonardo Montini's GitHub Awesome Lists](https://leonardomontini.dev/github-awesome-lists/)
@@ -15,7 +19,6 @@
 - [Awesome Protein Design Software](https://github.com/pansapiens/awesome-protein-design-software)
 - [Awesome Molecular Dynamics](https://awesome-md.com/#/)
 - [Molecular Graphics on GitHub](https://github.com/topics/molecular-graphics)
-
 
 ## Structure-based Drug Design  
 - [Awesome AI-aided drug design](https://github.com/chenxingqiang/Awesome_AI_Aided_Drug_Design_Papers)
@@ -66,7 +69,7 @@
 - [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
 - [List of Open Quantum Software](https://qosf.org/project_list/)
 - [Awesome quantum machine learning](https://krishnakumarsekar.github.io/awesome-quantum-machine-learning/)
-
+- [Awesome GitHub](https://github.com/Kikobeats/awesome-github)
 
 ## Programming Languages
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)

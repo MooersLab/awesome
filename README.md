@@ -1,7 +1,7 @@
 # Awesome Lists of Interest [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-## Background information about awesome litst
+## Background information about awesome lists on GitHub
 - [Leonardo Montini's GitHub Awesome Lists](https://leonardomontini.dev/github-awesome-lists/)
 - [Awesome Awesome](https://github.com/emijrp/awesome-awesome)
 - [Awesome](https://github.com/sindresorhus/awesome)
@@ -13,6 +13,14 @@
 - [Awesome Cryo-EM](https://github.com/kuixu/awesome-cryoem)
 - [Awesome Protein-Ligand Interactions](https://github.com/YuzheWangPKU/awesome-protein-ligand-interactions)
 - [Awesome Protein Design Software](https://github.com/pansapiens/awesome-protein-design-software)
+
+## Structure-based Drug Design  
+- [Awesome AI-aided drug design](https://github.com/chenxingqiang/Awesome_AI_Aided_Drug_Design_Papers)
+- [Awesome chemoinformatics](https://awesome.imyz.dev/lists/hsiaoyi0504-awesome-cheminformatics.html)
+
+## Quantum Chemistry  
+- [Awesome qunatum chemistry courses](https://github.com/jeanwsr/awesome-qc-courses)
+- [Awesome quantum chemistry](https://github.com/twoXes/awesome-quantum-chemistry)
 
 ## Design of Experiments
 - [Awesome Math](https://githublists.com/lists/rossant/awesome-math)
@@ -51,6 +59,9 @@
 - [Awesome GPU](https://github.com/Jokeren/Awesome-GPU)
 - [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding)
 - [Awesome Agents](https://github.com/vince-lam/awesome-agents)
+- [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
+- [List of Open Quantum Software](https://qosf.org/project_list/)
+- [Awesome quantum machine learning](https://krishnakumarsekar.github.io/awesome-quantum-machine-learning/)
 
 ## Programming Languages
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)

@@ -75,8 +75,19 @@
 - [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
 
-
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Update history
+
+|Version      | Changes                                                                                                                                                                         | Date                 |
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
+| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                                                                                | 11/15/2025  |
+
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)

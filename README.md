@@ -60,17 +60,24 @@ I have identified four lists that are missing and plan on adding those in the ne
 - [Awesome TikZ](https://github.com/xiaohanyu/awesome-tikz)
 
 ## Software Engineering
-- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+### Core Topics
 - [Awesome Refactoring](https://github.com/faradaj/awesome-refactoring)
 - [Awesome Testing](https://github.com/awesomelistsio/awesome-testing)
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+### HPC
 - [Awesome GPU](https://github.com/Jokeren/Awesome-GPU)
 - [Awesome High Performance Computing](https://github.com/trevor-vincent/awesome-high-performance-computing)
+### AI-assisted coding
 - [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding)
 - [Awesome Agents](https://github.com/vince-lam/awesome-agents)
+- [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code?tab=readme-ov-file)
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
+### Quantum Computing
 - [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
 - [List of Open Quantum Software](https://qosf.org/project_list/)
 - [Awesome Quantum Machine Learning](https://krishnakumarsekar.github.io/awesome-quantum-machine-learning/)
 - [Awesome GitHub](https://github.com/Kikobeats/awesome-github)
+### Category Theory
 - [Awesome Category Theory](https://github.com/madnight/awesome-category-theory)
 
 ## Programming Languages
@@ -89,6 +96,8 @@ I have identified four lists that are missing and plan on adding those in the ne
 
 ## Personal Knowledge Management
 - [Awesome PKM](https://github.com/doanhthong/awesome-pkm)
+- [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
+- [Awesome Org-roam](https://github.com/kot-behemoth/awesome-org-roam)
 - [Awesome Zettelkasten](https://github.com/fhoehl/awesome-zettelkasten)
 
 ## Voice Computing

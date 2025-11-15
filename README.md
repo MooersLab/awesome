@@ -13,6 +13,7 @@
 - [Awesome Cryo-EM](https://github.com/kuixu/awesome-cryoem)
 - [Awesome Protein-Ligand Interactions](https://github.com/YuzheWangPKU/awesome-protein-ligand-interactions)
 - [Awesome Protein Design Software](https://github.com/pansapiens/awesome-protein-design-software)
+- [Awesome Molecular Dynamics](https://awesome-md.com/#/)
 
 ## Structure-based Drug Design  
 - [Awesome AI-aided drug design](https://github.com/chenxingqiang/Awesome_AI_Aided_Drug_Design_Papers)

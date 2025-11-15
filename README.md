@@ -15,6 +15,7 @@
 - [Awesome Protein Design Software](https://github.com/pansapiens/awesome-protein-design-software)
 - [Awesome Molecular Dynamics](https://awesome-md.com/#/)
 
+
 ## Structure-based Drug Design  
 - [Awesome AI-aided drug design](https://github.com/chenxingqiang/Awesome_AI_Aided_Drug_Design_Papers)
 - [Awesome chemoinformatics](https://awesome.imyz.dev/lists/hsiaoyi0504-awesome-cheminformatics.html)
@@ -58,11 +59,13 @@
 - [Awesome Refactoring](https://github.com/faradaj/awesome-refactoring)
 - [Awesome Testing](https://github.com/awesomelistsio/awesome-testing)
 - [Awesome GPU](https://github.com/Jokeren/Awesome-GPU)
+- [Awesome High Performance Computing](https://github.com/trevor-vincent/awesome-high-performance-computing)
 - [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding)
 - [Awesome Agents](https://github.com/vince-lam/awesome-agents)
 - [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
 - [List of Open Quantum Software](https://qosf.org/project_list/)
 - [Awesome quantum machine learning](https://krishnakumarsekar.github.io/awesome-quantum-machine-learning/)
+
 
 ## Programming Languages
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)

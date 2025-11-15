@@ -73,6 +73,7 @@
 - [Awesome Emacs Lisp](https://github.com/emacs-tw/awesome-elisp)
 - [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Awesome Wolfram Language](https://github.com/cabralski/awesome-wolfram-language)

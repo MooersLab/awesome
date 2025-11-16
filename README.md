@@ -80,19 +80,21 @@ I have identified four lists that are missing and plan on adding those in the ne
 ### Category Theory
 - [Awesome Category Theory](https://github.com/madnight/awesome-category-theory)
 
-## Programming Languages
+
+    ## Programming Languages
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
-- [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 - [Awesome C](https://github.com/oz123/awesome-c)
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+- [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 - [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 - [Awesome Emacs Lisp](https://github.com/emacs-tw/awesome-elisp)
 - [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- [Awesome Nim](https://github.com/ringabout/awesome-nim)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
-- [Awesome Wolfram Language](https://github.com/cabralski/awesome-wolfram-language)
+- [Awesome Wolfram Language (Mathematica)](https://github.com/cabralski/awesome-wolfram-language)
 
 ## Personal Knowledge Management
 - [Awesome PKM](https://github.com/doanhthong/awesome-pkm)
@@ -109,6 +111,9 @@ I have identified four lists that are missing and plan on adding those in the ne
 - [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
 - [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 - [Awesome Typst](https://github.com/qjcg/awesome-typst)
+- [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
+- [Awesome HTML](https://github.com/diegocard/awesome-html5)
+
 
 ## Writing Guidance
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)

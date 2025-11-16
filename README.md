@@ -1,4 +1,5 @@
 # Awesome Lists of Interest [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[Version](https://img.shields.io/static/v1?label=awesome&message=0.2&color=brightcolor)
 
 This is a curated list of links to awesome list that other people have put together about topics of interest to me.
 They're over 6000 such awesome list on GitHub.
@@ -129,9 +130,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Update history
 
-|Version      | Changes                                                                                                                                                                         | Date                 |
+|Version   | Changes                                                                                                                                                  | Date                 |
 |:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
-| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                                                                                | 11/15/2025  |
+| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                                   | 11/15/2025  |
+| Version 0.2 |   Added more more entries                                                                                                                     | 11/16/2025  |
 
 ## Sources of funding
 

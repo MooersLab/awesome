@@ -73,6 +73,7 @@ I have identified four lists that are missing and plan on adding those in the ne
 - [Awesome Agents](https://github.com/vince-lam/awesome-agents)
 - [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code?tab=readme-ov-file)
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [Awesome Human-AI Interaction (lots of interesting papers up tp 2020)](https://github.com/bwang514/awesome-HAI)
 ### Quantum Computing
 - [Awesome quantum software](https://github.com/qosf/awesome-quantum-software)
 - [List of Open Quantum Software](https://qosf.org/project_list/)

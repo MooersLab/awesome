@@ -1,5 +1,5 @@
 # Awesome Lists of Interest [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[Version](https://img.shields.io/static/v1?label=awesome&message=0.2&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=awesome&message=0.2&color=brightcolor)
 
 This is a curated list of links to awesome list that other people have put together about topics of interest to me.
 They're over 6000 such awesome list on GitHub.

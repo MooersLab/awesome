@@ -92,6 +92,8 @@ I have identified four lists that are missing and plan on adding those in the ne
 - [Awesome Emacs Lisp](https://github.com/emacs-tw/awesome-elisp)
 - [Awesome Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- [Awesome Java](https://github.com/akullpp/awesome-java)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Nim](https://github.com/ringabout/awesome-nim)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome R](https://github.com/qinwf/awesome-R)

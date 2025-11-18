@@ -1,10 +1,9 @@
-# Awesome Lists of Interest [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[Version](https://img.shields.io/static/v1?label=awesome&message=0.2&color=brightcolor)
+# Awesome Lists of Interest 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Version](https://img.shields.io/static/v1?label=awesome&message=0.2&color=brightcolor)
 
 This is a curated list of links to awesome list that other people have put together about topics of interest to me.
-They're over 6000 such awesome list on GitHub.
-I have identified four lists that are missing and plan on adding those in the near future as separate repositories.
-
+They're over 6000 such awesome lists on GitHub.
 
 ## Background information about awesome lists on GitHub
 - [Leonardo Montini's GitHub Awesome Lists](https://leonardomontini.dev/github-awesome-lists/)
